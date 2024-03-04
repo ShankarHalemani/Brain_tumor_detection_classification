@@ -1,8 +1,6 @@
 # Brain_tumor_detection_classification
 <p>
 
-Sure, here's a brief explanation of the "Brain Tumor Detection and Classification using Deep Learning Models" project:
-
 This project focuses on the critical task of detecting and classifying brain tumors using deep learning models. Brain tumors present a significant health concern globally, with timely detection being crucial for improving patient outcomes. The proposed system encompasses several key stages, including data collection, preprocessing, feature extraction, and classification.
 
 Deep learning models, specifically AlexNet, VGG16, ResNet-50, GoogLeNet, Xception, and DenseNet-121, were evaluated for their performance in detecting brain tumors. Among these models, DenseNet-121 demonstrated exceptional accuracy, achieving an impressive accuracy of 97.69%. This model outperformed others due to its robust learning and generalization capabilities.
