@@ -1,4 +1,4 @@
-# Brain_tumor_detection_classification
+# Brain Tumor Detection and Classification using Deep Learning Models
 <p>
 
 This project focuses on the critical task of detecting and classifying brain tumors using deep learning models. Brain tumors present a significant health concern globally, with timely detection being crucial for improving patient outcomes. The proposed system encompasses several key stages, including data collection, preprocessing, feature extraction, and classification.
