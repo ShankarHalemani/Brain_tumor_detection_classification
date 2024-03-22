@@ -16,3 +16,5 @@ In conclusion, the DenseNet-121 model emerged as the optimal choice for brain tu
 This brief explanation encapsulates the essence of the project and can be added to the repository on GitHub to provide an overview for interested users or collaborators.
   
 </p>
+
+<img src = "PEIS presentation certificate-42.jpg"></img>
