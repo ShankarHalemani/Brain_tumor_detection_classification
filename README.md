@@ -17,4 +17,4 @@ This brief explanation encapsulates the essence of the project and can be added 
   
 </p>
 
-<img src = "PEIS presentation certificate-42.jpg"></img>
+<img src = "PEIS 2024 Presentation Certificate-42.jpg"></img>
